@@ -1,6 +1,6 @@
 package ru.stimmax.ru.stimmax.lessons.lesson03.homework
 
-class homework {
+class Homework {
 
     // 1. Название мероприятия (неизменяемая публичная переменная известная на момент написания)
     val eventName: String = "Hackathon to the MEGA"
