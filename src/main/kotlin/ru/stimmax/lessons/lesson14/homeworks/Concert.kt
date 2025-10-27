@@ -1,4 +1,4 @@
-package ru.stimmax.ru.stimmax.lessons.lesson14.homework
+package ru.stimmax.ru.stimmax.lessons.lesson14.homeworks
 
 class Concert(val band: String, val venue: String, val price: Int, val capacity: Int) {
     private var soldTickets = 0
