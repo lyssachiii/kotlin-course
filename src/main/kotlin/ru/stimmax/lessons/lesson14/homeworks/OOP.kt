@@ -1,8 +1,5 @@
 package ru.stimmax.ru.stimmax.lessons.lesson14.homeworks
 
-import ru.stimmax.ru.stimmax.lessons.lesson14.homeworks.Rack
-import ru.stimmax.ru.stimmax.lessons.lesson14.homeworks.Shelf
-
 fun main() {
 
     //1-5

@@ -1,4 +1,4 @@
-package ru.stimmax.ru.stimmax.lessons.lesson15.homeworks.GeometricShapes
+package ru.stimmax.ru.stimmax.lessons.lesson15.homeworks
 
 // Потренируйся в создании иерархии классов с расширением базовой сущности.
 //
