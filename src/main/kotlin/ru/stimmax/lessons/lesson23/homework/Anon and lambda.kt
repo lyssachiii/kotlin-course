@@ -1,4 +1,4 @@
-package ru.stimmax.ru.stimmax.lessons.lesson23
+package ru.stimmax.ru.stimmax.lessons.lesson23.homework
 
 // Создай функцию, которая принимает список чисел и возвращает среднее арифметическое всех чётных чисел этого списка. С помощью require проверь, что список не пустой.
 
